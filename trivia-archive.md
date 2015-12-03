@@ -67,3 +67,4 @@ https://redislabs.com/redis-watch-archive
 55. Redis is written in C
 56. The bridge of Redis is located just before Redis station and the main depot of Redis: https://www.youtube.com/watch?v=N9a0xy2xITY
 57. Redis is the fastest footwear in the world - https://twitter.com/zefer/status/626434890532261889
+58. Redis' clients page has 146 entries in 46 different programming languages: http://redis.io/clients
