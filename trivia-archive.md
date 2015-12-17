@@ -68,3 +68,4 @@ https://redislabs.com/redis-watch-archive
 56. The bridge of Redis is located just before Redis station and the main depot of Redis: https://www.youtube.com/watch?v=N9a0xy2xITY
 57. Redis is the fastest footwear in the world - https://twitter.com/zefer/status/626434890532261889
 58. Redis' clients page has 146 entries in 46 different programming languages: http://redis.io/clients
+59. The numeric string 6379 appears at the 1613rd decimal digit of e
