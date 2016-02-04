@@ -71,3 +71,4 @@ https://redislabs.com/redis-watch-archive
 59. The numeric string 6379 appears at the 1613rd decimal digit of e
 60. 6379 is 0b1100011101011
 61. Pictures from Abou Redis (also see fact #8): https://instagram.com/explore/locations/261831538/
+62. There are 62 .c and 38 .h files in redis/src folder, which make a cool total of 10^2
