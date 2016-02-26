@@ -72,3 +72,4 @@ https://redislabs.com/redis-watch-archive
 60. 6379 is 0b1100011101011
 61. Pictures from Abou Redis (also see fact #8): https://instagram.com/explore/locations/261831538/
 62. There are 62 .c and 38 .h files in redis/src folder, which make a cool total of 10^2
+63. `for each n in {3, 6} print(n^2-1)  # coincidence? I think not.`
