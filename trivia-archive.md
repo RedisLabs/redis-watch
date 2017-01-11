@@ -74,3 +74,4 @@ https://redislabs.com/redis-watch-archive
 62. There are 62 .c and 38 .h files in redis/src folder, which make a cool total of 10^2
 63. `for each n in {3, 6} print(n^2-1)  # coincidence? I think not.`
 64. 2^64, or 18,446,744,073,709,551,616, is the total number of 0.5G string values that a Redis database can store
+65. Redis EXPIRE Illustrated (NSFW) - http://exeypan.deviantart.com/art/Redis-EXPIRE-539267658
