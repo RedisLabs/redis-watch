@@ -75,3 +75,4 @@ https://redislabs.com/redis-watch-archive
 63. `for each n in {3, 6} print(n^2-1)  # coincidence? I think not.`
 64. 2^64, or 18,446,744,073,709,551,616, is the total number of 0.5G string values that a Redis database can store
 65. Redis EXPIRE Illustrated (NSFW) - http://exeypan.deviantart.com/art/Redis-EXPIRE-539267658
+66. The first ever version of Redis was written in 300 LoC of Tcl: https://gist.github.com/antirez/6ca04dd191bdb82aad9fb241013e88a8
