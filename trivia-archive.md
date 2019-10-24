@@ -11,7 +11,7 @@ https://redislabs.com/redis-watch-archive
 3. the correct way to pronounce "Redis" is / rɛdɪs/ - start with "red" (like the color) and finish off with "iss"
 4. Salvatore Sanfilippo, a.k.a. antirez, is the creator of Redis and is self-proclaimed "rude southern italian, writing code for fun and profit."
 5. Daniel Fucbitz is a sysop from planet Terah who always complains about EDB [link: http://antirez.com/news/57]
-6. Redis means "repeat" (as in "say again") in French, "redistribution" in Catalan, "radish" in Estonian, "return" in Latin, "rediscount" in Latvian, "pens" in Portuguese, sounds like "radish" in Russian and Serbian and like "radishes" in Ukrainian (source: Google Translate)
+6. Redis means "repeat" (as in "say again") in French, "redistribution" in Catalan, "radish" in Estonian, "return" in Latin, "rediscount" in Latvian, "nets/networks" in Portuguese, sounds like "radish" in Russian and Serbian and like "radishes" in Ukrainian (source: Google Translate)
 7. Redis has a manifesto - http://oldblog.antirez.com/post/redis-manifesto.html. My personal favorites from it are "code is like a poem", "we're against complexity" and "we optimize for joy"
 8. there's a city in Egypt called Abou Redis ("Abou" means "father of" in Arabic, so it's no surprise that there's a giant statue of antirez in the town's square [the part about the statue is totally made up])
 9. 6379 is an odd number. It is also a prime number. In fact, it is an irregular prime number that's also the sum of 9 consecutive primes as well as the sum of cousin primes + 1. Lastly, it is the last member of a sexy prime quadruple. #mathporn
